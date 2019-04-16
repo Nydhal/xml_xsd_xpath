@@ -1,0 +1,6 @@
+C:\Users\nselmi\Documents\GitHub\CS_Course_Projects\CSE_445\HW4\Part2\WebApplication1\WcfService1\bin\WcfService1.dll.config
+C:\Users\nselmi\Documents\GitHub\CS_Course_Projects\CSE_445\HW4\Part2\WebApplication1\WcfService1\bin\WcfService1.dll
+C:\Users\nselmi\Documents\GitHub\CS_Course_Projects\CSE_445\HW4\Part2\WebApplication1\WcfService1\bin\WcfService1.pdb
+C:\Users\nselmi\Documents\GitHub\CS_Course_Projects\CSE_445\HW4\Part2\WebApplication1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\nselmi\Documents\GitHub\CS_Course_Projects\CSE_445\HW4\Part2\WebApplication1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\nselmi\Documents\GitHub\CS_Course_Projects\CSE_445\HW4\Part2\WebApplication1\WcfService1\obj\Debug\WcfService1.pdb
